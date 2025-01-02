@@ -65,5 +65,5 @@ The SQL queries used to answer these questions can be found in the script [Music
 - The provided [Music Store Database](./Music_Store_database.sql) loaded into your SQL environment.
 
 ## Resources
-- [Full Project Vide](https://youtu.be/VFIuIjswMKM?si=h18aPchfqf-yzF2Z)
+- [Full Project Video](https://youtu.be/VFIuIjswMKM?si=h18aPchfqf-yzF2Z)
 
